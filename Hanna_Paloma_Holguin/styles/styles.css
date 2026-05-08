@@ -1,0 +1,107 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 18px;
+    padding: 40px;
+    background-color: #f6eedd;
+    margin: 0;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    position: relative;
+}
+
+label {
+    display: block;
+    width: 300px;
+    margin: 0 auto 5px auto;
+    text-align: center;
+    font-size: 16px;
+}
+
+input, button {
+    display: block;
+    width: 300px;
+    margin: 0 auto 10px auto;
+    padding: 15px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+    font-size: 16px;
+    
+}
+
+button {
+    cursor: pointer;
+}
+
+#result {
+    margin-top: 10px;
+    text-align: center;
+}
+
+/*imagenes*/
+
+.imgLateral {
+    position: absolute;
+    top: 50%;      /* Pegado arriba */
+    bottom: 0;   /* Pegado abajo */
+    transform: translateY(-50%);
+    width: 300px; /* Puedes hacerlo un poco más ancho si gustas */
+    height: auto; /* Deja que el alto lo defina el estiramiento */
+    
+    object-fit: cover; /* Para que la imagen no se deforme */
+    box-sizing: border-box; /* Para que el marco no mueva la imagen */
+    padding: 0; 
+    background-color: white;
+}
+
+/* Posición específica */
+.imgIzq {
+    left: 40px; 
+}
+
+.imgDer {
+    right: 40px; 
+}
+
+
+
+/*index exterior--------------------------------------*/
+
+
+h1 {
+    color: #040404;
+    margin-bottom: 30px;
+}
+
+.menuBotones {
+    display: grid;
+    gap: 20px;
+    padding: 20px;
+}
+
+.botonMenu {
+    display: block;
+    padding: 20px;
+    
+    background-color: #ffffff;
+    color: #000000;
+    text-decoration: none; 
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    font-weight: bold;
+    transition: all 0.3s ease;
+}
+
+.botonMenu:hover {
+    background-color: #ba8d2c;
+
+}
+
+/* Este es el efecto cuando mantienes presionado el botón */
+button:hover {
+    background-color: #ba8d2c; /* Un gris un poco más oscuro o el color que gustes */
+   
+}
