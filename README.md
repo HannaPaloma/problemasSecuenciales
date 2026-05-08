@@ -1,11 +1,19 @@
-# problemasSecuenciales
-Nombre: Hanna Paloma Holguin
-Grupo: F
-Grado: 4
-Escuela: CBTis 122
-Practica: Probelmas Secuenciales
-Descripcion: Diseño de una pagina web con todos los ejercicios asignados en clase.
+# 📝 Registro de Ejercicios - Identificación del Alumno
 
+## 👤 Datos del Alumno
+| Campo | Información                      |
+|-------|----------------------------------|
+| Nombre completo | [Hanna Paloma Holguin] |
+| Número de control | [24308051220575]     |
+| Grupo             | [F]                  |
+| Grado             | [4°]                 |
+| Escuela           | [CBTis 122]          |
+| Especialidad      | [Programacion]       |
+
+## 📘 Información del Ejercicio
+- Título del ejercicio: [Problemas Secuenciales]
+- Descripción:  
+  [Diseño de una pagina web con todos los ejercicios asignados en clase]
 
 2.1 Realice una página web con JS que representen el algoritmo para obtener el área de un triángulo.
  2.2 Una empresa importadora desea determinar cuántos dólares puede adquirir con equis cantidad de dinero mexicano. Realice una página web con JS que representen el algoritmo para tal fin.
