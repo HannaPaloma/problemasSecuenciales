@@ -4,7 +4,9 @@ Grupo: F
 Grado: 4
 Escuela: CBTis 122
 Practica: Probelmas Secuenciales
-Descripcion:
+Descripcion: Diseño de una pagina web con todos los ejercicios asignados en clase.
+
+
 2.1 Realice una página web con JS que representen el algoritmo para obtener el área de un triángulo.
  2.2 Una empresa importadora desea determinar cuántos dólares puede adquirir con equis cantidad de dinero mexicano. Realice una página web con JS que representen el algoritmo para tal fin.
  2.3 Una empresa que contrata personal requiere determinar la edad de las personas que solicitan trabajo, pero cuando se les realiza la entre vista sólo se les pregunta el año en que nacieron. Realice una página web con JS que representen el algoritmo para solucionar este problema.
