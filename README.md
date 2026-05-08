@@ -11,9 +11,8 @@
 | Especialidad      | [Programacion]       |
 
 ## 📘 Información del Ejercicio
-- Título del ejercicio: [Problemas Secuenciales]
-- Descripción:  
-  [Diseño de una pagina web con todos los ejercicios asignados en clase]
+- Título del ejercicio: Problemas Secuenciales
+- Descripción:  Diseño de una pagina web con todos los ejercicios asignados en clase.
 
 2.1 Realice una página web con JS que representen el algoritmo para obtener el área de un triángulo.
  2.2 Una empresa importadora desea determinar cuántos dólares puede adquirir con equis cantidad de dinero mexicano. Realice una página web con JS que representen el algoritmo para tal fin.
