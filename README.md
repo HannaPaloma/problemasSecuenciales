@@ -3,12 +3,12 @@
 ## 👤 Datos del Alumno
 | Campo | Información                      |
 |-------|----------------------------------|
-| Nombre completo | [Hanna Paloma Holguin] |
-| Número de control | [24308051220575]     |
-| Grupo             | [F]                  |
-| Grado             | [4°]                 |
-| Escuela           | [CBTis 122]          |
-| Especialidad      | [Programacion]       |
+| Nombre completo |  Hanna Paloma Holguin  |
+| Número de control |  24308051220575      |
+| Grupo             |  F                   |
+| Grado             |  4°                  |
+| Escuela           |  CBTis 122           |
+| Especialidad      |  Programacion        |
 
 ## 📘 Información del Ejercicio
 - Título del ejercicio: Problemas Secuenciales
